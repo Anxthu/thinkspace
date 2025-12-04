@@ -34,7 +34,8 @@ When you use the command bar, the system simulates a "thinking" state before gen
 ## Key Features
 
 *   **Infinite Canvas**: Pan (Space+Drag) and Zoom (Ctrl+Scroll) to navigate a limitless workspace.
-*   **Liquid Grid**: A dynamic background that reacts to your mouse, providing subtle feedback.
+*   **Interactive Dot Grid**: A minimalist background that reacts to your mouse with a subtle spotlight effect.
+*   **Zoom Controls**: Dedicated `+` and `-` buttons in the header for precise scaling.
 *   **3D Integration**: Drag and drop 3D objects directly onto the canvas.
 *   **Minimap**: A tactical overview of your entire workspace.
 
