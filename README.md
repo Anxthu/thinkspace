@@ -20,11 +20,11 @@ The design language implies an active, living system:
 
 ![Boot Sequence](docs/screenshots/boot_sequence.png)
 
-### 3. Fluid Mode Switching
-The interface adapts to your workflow:
-*   **FLOW Mode**: An infinite canvas for unrestricted exploration.
-*   **GRID Mode**: A structured layout for refinement.
-*   **The Goal**: The AI eventually switches these modes automatically based on your behavior.
+### 3. Fluid Intelligence
+The interface combines the best of both worlds:
+*   **Infinite Canvas**: An unrestricted space for exploration and chaos.
+*   **Structured Grid**: A subtle, pervasive grid that provides order without rigidity.
+*   **The Goal**: A workspace that feels alive and adapts to your creative flow.
 
 ### 4. Generative Placeholders
 When you use the command bar, the system simulates a "thinking" state before generating content, reinforcing the idea that you are directing an intelligent agent, not just manipulating pixels.
